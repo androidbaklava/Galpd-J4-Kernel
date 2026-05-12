@@ -35,4 +35,4 @@ For other ROMs, repack using that ROM's own boot.img ramdisk. Do not reuse a Lin
  * Please do some research if you have any concerns about features included in the products you find here before flashing it! 
  * YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you. 
  * Your warranty will be void if you tamper with any part of your device / software.
- *Flash at your own risk. Keep a known-working boot image ready so you can restore from TWRP if needed.
+ *Flash at your own risk. Keep a working boot image ready so you can restore from TWRP if needed.
